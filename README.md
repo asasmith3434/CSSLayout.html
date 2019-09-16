@@ -12,5 +12,4 @@
       <li><a href="layout8.html">Layout 8</a><ol> 
       <li><a href="layout9.html">Layout 9</a><ol>             
 </ol>
-</body>
-</html>
+
