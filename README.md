@@ -1,4 +1,3 @@
-# CSSLayout.html
 <html>
 <body>
   <h1> layout lab </h1>
